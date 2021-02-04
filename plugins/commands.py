@@ -37,7 +37,7 @@ async def help(client, message):
             text=script.HELP_MSG,
             disable_web_page_preview=True
             reply_to_message_id=update.message_id
-    )
+       )
 
 
 @Client.on_message(filters.command(["about"]) & filters.private)
@@ -47,5 +47,5 @@ async def about(client, message):
             text=script.ABOUT_MSG,
             disable_web_page_preview=True
             reply_to_message_id=update.message_id
-    )
+       )
 
