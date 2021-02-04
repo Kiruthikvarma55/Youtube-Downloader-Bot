@@ -19,7 +19,6 @@ class script(object):
 
 📝 Currently, Only supports Youtube Single Video (No playlist).
 
-
 <b>© @Kalam_Company</b>"""
     ABOUT_MSG = """⭕️ <b>My Name : Kalam YouTube DownloadeR</b>
 
